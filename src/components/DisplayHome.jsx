@@ -1,5 +1,5 @@
 import { albumsData, songsData } from "../assets/assets";
-import Albumitem from "./Albumitem";
+import Albumitem from "./Albumitem.jsx";
 import Navbar from "./Navbar";
 import SongItem from "./SongItem";
 
