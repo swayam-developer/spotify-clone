@@ -1,6 +1,6 @@
 import { useNavigate } from "react-router-dom";
 
-const AlbumItem = ({ image, name, desc, id }) => {
+const AlbumItem = (image, name, desc, id) => {
   const navigate = useNavigate();
   return (
     <div
